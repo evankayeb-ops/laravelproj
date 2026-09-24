@@ -6,7 +6,7 @@ Student Name: Evan Kaye Bacayo
 
 Course & Year: 2nd Year
 
-Database Used: MySQ
+Database Used: MySQL
 
 Features
 - Add Task
