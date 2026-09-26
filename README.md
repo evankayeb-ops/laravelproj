@@ -9,11 +9,11 @@ Course & Year: 2nd Year
 Database Used: MySQL
 
 Features
-- Add Task
-- View Tasks
-- Edit Task
-- Delete Task
-- Update Status
+- Add Task: Users can create new tasks by filling out a structured form with fields such as Task Name, Description, Due Date, and initial Status. This ensures every task is recorded with complete details right from the start, helping users plan their work effectively.
+- View Tasks: All saved tasks are displayed in a clear, well-organized table or list view on the main dashboard. This feature gives users an instant overview of every task they have added, showing key information at a glance without needing to click through multiple pages.
+- Edit Task: Should any information change, such as a revised deadline or updated task description, the system allows users to modify existing entries effortlessly. This ensures task records always stay accurate and up to date.
+- Delete Task: When a task is no longer relevant, unnecessary, or was created by mistake, users can remove it permanently from the system. This keeps the task list clean and free from clutter, ensuring only active and meaningful tasks remain visible.
+- Update Status: Beyond simple editing, users can specifically change the progress status of each task, such as marking it as Pending, In Progress, or Completed. This feature is particularly valuable for tracking workflow progress and seeing at a glance how much of the work has been finished.
 
 Setup
 1. Clone the repo and run `composer install`.
