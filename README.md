@@ -16,7 +16,7 @@ Features
 - Update Status: Beyond simple editing, users can specifically change the progress status of each task, such as marking it as Pending, In Progress, or Completed. This feature is particularly valuable for tracking workflow progress and seeing at a glance how much of the work has been finished.
 
 Setup
-1. Clone the repo and run `composer install`.
+1. `composer install`.
 2. Copy `.env.example` to `.env` and set your database credentials.
 3. Run `php artisan key:generate`.
 4. Run `php artisan migrate`.
